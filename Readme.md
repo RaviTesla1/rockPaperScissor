@@ -8,9 +8,9 @@ This is a rock paper scissor game where we can play with user .
   - CSS - Cascadeing Spread Sheet
   - JS - Java Script
 
-## 🚀[Live link](digital-clock-po7.netlify.app)
+## 🚀[Live link](https://rockk-paperrr-scissors.netlify.app/)
 
-## 🚀[Source Code](https://github.com/RaviTesla1/Digital-Clock)
+## 🚀[Source Code](https://github.com/RaviTesla1/rockpaperScissor)
 
 
 ## 🚩Demo :
